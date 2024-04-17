@@ -101,7 +101,7 @@ insurance_f_summary_df['Group'] = 'Home Insurance'
 nd_exp_f_summary_df['Group'] = 'Experienced Natural Disaster'
 above_pov_line_f_summary_df['Group'] = 'Income Above Poverty Line'
 employment_f_summary_df['Group'] = 'Employment Status'
-
+q
 
 # Group by demographic categories and calculate the summary stats for worry scores for cyclones
 
